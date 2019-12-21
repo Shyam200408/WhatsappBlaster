@@ -1,4 +1,4 @@
-# WhatsappBlaster:
+# WhatsappBlaster:Whats App Media Tool
 Social Media Advertisement Tool,  
 Sends messages to Whats app contacts/groups without blocking numbers. 
 Gives one time login feature, 
